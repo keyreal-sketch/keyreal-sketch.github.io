@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I love :java:
+I love :coffee:
